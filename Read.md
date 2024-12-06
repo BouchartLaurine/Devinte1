@@ -50,3 +50,12 @@ git remote add origin https:// = Lié via l’adresse
 (origin = le nom du depot)
 
 git remote -v = Utilisée pour afficher les URL des dépôts distants associés à votre dépôt Git local. Elle vous permet de savoir vers où votre dépôt local est connecté pour pousser ou récupérer des modifications.
+
+### Commande pour mettre de visual code a Git Hub
+
+git init > Pour crée le dépot
+git add README.md > Ajouter le ficher
+git commit -m "first commit" > Créer un commit
+git branch -M main > Renomer la branch en Main
+git remote add origin https://github.com/********/*******.git
+git push -u origin main
