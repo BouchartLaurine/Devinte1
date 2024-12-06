@@ -1,6 +1,6 @@
 # Tuto
 
-## Etape une :
+## Etape une : <span style="color: red;">Le Terminal
 
 Dans le Terminal
 
@@ -14,7 +14,7 @@ Dans le Terminal
    > Créer ton dépot git vide
 4. Créer un **repository** sur Git Hub
 
-## Etape deux
+## Etape deux <span style="color: red;"> Le Git
 
 1.  git clone _url du repository_
 
@@ -32,7 +32,7 @@ Dans le Terminal
 
     > Mettre ton fichier dans Git Hub
 
-    ## Etape Trois :
+    ## Etape Trois : <span style="color: red;">Nom d'utilisateur et Mot de passe
 
     #### Le 'git push origin main' vous demande le nom d'utilisateur
 
